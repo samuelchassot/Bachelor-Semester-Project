@@ -1,5 +1,6 @@
 # Bachelor Semester Project -- Samuel Chassot
-Bachelor semester project done at EPFL, in LAMP laboratory. The subject was Adding tooling support for *Dotty Enum in Scalameta and Scalafmt*.
+## *Adding tooling support for Dotty Enum in Scalameta and Scalafmt*
+Bachelor semester project done at EPFL, in LAMP laboratory.
 
 In this repository, you can find the report.
 
